@@ -1,0 +1,5 @@
+﻿  ppm.cpp
+c:\users\lambr\onedrive\υπολογιστής\3ο εξαμηνο\c++\εργασια\εργασια 2\filter\ppm\ppm.cpp(51): warning C4018: '<': signed/unsigned mismatch
+c:\users\lambr\onedrive\υπολογιστής\3ο εξαμηνο\c++\εργασια\εργασια 2\filter\ppm\ppm.cpp(80): warning C4018: '<': signed/unsigned mismatch
+c:\users\lambr\onedrive\υπολογιστής\3ο εξαμηνο\c++\εργασια\εργασια 2\filter\ppm\ppm.cpp(81): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+  ppm.vcxproj -> C:\Users\lambr\OneDrive\Υπολογιστής\3ο ΕΞΑΜΗΝΟ\C++\ΕΡΓΑΣΙΑ\ΕΡΓΑΣΙΑ 2\filter\ppm\ppm.lib
