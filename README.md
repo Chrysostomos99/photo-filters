@@ -1,3 +1,0 @@
-﻿# photo-filters
-
-Object-oriented C++ image-processing app for PPM images with reusable gamma and linear filters via operator overloading.
